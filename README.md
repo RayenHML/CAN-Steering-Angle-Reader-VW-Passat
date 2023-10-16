@@ -87,12 +87,3 @@ Implementation details are available in **'src/Read_Steering_Angle_VW_Passat.ino
 
 
 
-
-
-
-
-
-
-
-"# CAN-Steering-Angle-Reader---VW-Passat" 
-"# CAN-Steering-Angle-Reader---VW-Passat" 
